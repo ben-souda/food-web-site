@@ -89,3 +89,17 @@
     width: 150px;
 }
 
+.footer {
+    background-color: #11122b;
+    color: #cbcbcb;
+    font-family: 'Ubuntu Condensed', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer > .logo-footer > img {
+    height: 100%;
+    width: 180px;
+}
